@@ -13,9 +13,11 @@ For this project, we will be using the Titanic Dataset from Kaggle, which includ
 ## Metadata
 - **Information about the database**: [NOAA Storm Events Metadata](https://www.ncdc.noaa.gov/stormevents/faq)
 - **Database structure changes**: The structure from NOAA was changed in 1996. Only the years 1998-2024 are included in this download.
- # https://www.ncdc.noaa.gov/stormevents/faq
 
-https://www.ncdc.noaa.gov/stormevents/details.jsp
+
+
+
+
 ## Questions to Explore
 - What states have the most events related to thunderstorms?
 - Do some states have more tornadoes than others?
