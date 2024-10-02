@@ -72,7 +72,7 @@ To set up your project environment, run the following commands in your terminal:
 ```bash
 py -m venv .venv
 .venv\Scripts\Activate
-
+```
 ## Conclusion
 
 In this exploratory data analysis (EDA) project using the Titanic dataset, we discovered the following key insights:
@@ -81,9 +81,12 @@ In this exploratory data analysis (EDA) project using the Titanic dataset, we di
 - **Fare Distribution:** Most passengers paid a lower fare, with some outliers who paid significantly more, indicating socio-economic differences among passengers.
 
 ### Implications
+
 These findings underline the disparities in survival chances based on gender and socio-economic status among Titanic passengers.
 
 ### Future Work
+
 Further analyses could explore the impact of age and passenger class on survival rates, as well as correlations with other variables.
 
 For a detailed analysis and visualizations, please refer to the Jupyter Notebook: [elen_eda.ipynb](elen_eda.ipynb).
+
