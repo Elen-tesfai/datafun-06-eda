@@ -38,17 +38,21 @@ Perform exploratory data analysis (EDA) using pandas and other tools as needed. 
    - Visualized the distribution of numerical columns (e.g., Age, Fare) using histograms.
    - Plotted the Age distribution:
      ![Age Distribution of Titanic Passengers](age_distribution.png)
+   - This plot helps in understanding the age demographics of the passengers.
 
 5. **Initial Data Distribution for Categorical Columns**
    - Visualized survival rates by gender using bar charts:
      ![Survival Rate by Gender](survival_rate_by_gender.png)
+   - This visualization provides insights into gender disparities in survival rates.
 
 6. **Initial Data Transformation and Feature Engineering**
-   - Applied one-hot encoding to the `Embarked` column using `pd.get_dummies()`.
+   - Applied one-hot encoding to the `Embarked` column using `pd.get_dummies()`. This transformation converts categorical variables into a format that can be provided to machine learning algorithms.
+
 
 7. **Initial Visualizations**
    - Created visualizations to explore relationships in the data, including the Fare distribution:
      ![Fare Distribution of Titanic Passengers](fare_distribution.png)
+    - These visualizations help in understanding how fares varied among passengers and potential socio-economic implications.
 
 8. **Initial Storytelling and Presentation**
    - **Insights:**
