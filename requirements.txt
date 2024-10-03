@@ -4,3 +4,6 @@ pandas
 matplotlib
 seaborn
 scipy
+geopandas
+pathlib
+ipywidgets
